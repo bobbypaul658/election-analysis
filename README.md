@@ -1,4 +1,7 @@
-# election-analysis
+# Election Overview
+The purpose of the election analysis was to help Seth break down the data that was provided to provide a clear cut winner by county analysis through vote counts, county results and total number of votes.
+
+# election-analysis audit results
 The analysis of the election show that:
 
 There were 369,711 votes cast in the election.
@@ -46,3 +49,6 @@ Diana DeGette
 Vote Count: 272,892
 
 Percentage: 73.8%
+
+# Election Audit Summary
+In Summary- The election script can be used later because of the clear syntax that we used and the ablitiy to scale the data that we have will be alot easier for future use for the eleciton committe.
