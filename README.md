@@ -51,4 +51,4 @@ Vote Count: 272,892
 Percentage: 73.8%
 
 # Election Audit Summary
-In Summary- The election script can be used later because of the clear syntax that we used and the ablitiy to scale the data that we have will be alot easier for future use for the eleciton committe.
+In Summary- The election script can be used later because of the clear syntax that we used and the ablitiy to scale the data that we have will be alot easier for future use for the eleciton committe. Two examples are we can add more counties such as if a congressional restructure is required and add candidates.
